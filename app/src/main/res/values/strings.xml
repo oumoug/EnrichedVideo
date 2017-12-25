@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EnrichedVideo</string>
+    <string name="url_video">http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4</string>
+    <string name="page_wiki">https://en.wikipedia.org/wiki/Big_Buck_Bunny</string>
+
+</resources>

@@ -1,0 +1,49 @@
+{
+  "timeStamp":[
+    {
+      "positionDebut": "0",
+      "positionFin":"6000",
+      "url": "https://en.wikipedia.org/wiki/Big_Buck_Bunny"
+    },
+    {
+      "url":"https://fr.wikipedia.org/wiki/Oiseau",
+      "positionDebut": "6000",
+      "positionFin":"23000"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Rodentia",
+      "positionDebut":"23000",
+      "positionFin":"53000"
+    },
+    {
+      "url":"https://fr.wikipedia.org/wiki/Lepidoptera",
+      "positionDebut": "53000",
+      "positionFin":"124000"
+    },
+    {
+      "url":"https://fr.wikipedia.org/wiki/Lapin",
+      "positionDebut": "124000",
+      "positionFin":"165000"
+    },
+    {
+      "url":"https://fr.wikipedia.org/wiki/Mouton",
+      "positionDebut": "165000",
+      "positionFin":"338000"
+    },
+    {
+      "url":"https://fr.wikipedia.org/wiki/Souris",
+      "positionDebut": "338000",
+      "positionFin":"431000"
+    },
+    {
+      "url":"https://fr.wikipedia.org/wiki/Castor",
+      "positionDebut": "431000",
+      "positionFin": "495000"
+    },
+    {
+      "url":"https://peach.blender.org/",
+      "positionDebut": "495000",
+      "positionFin": "600000"
+    }
+  ]
+}

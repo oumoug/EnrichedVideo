@@ -1,0 +1,40 @@
+{
+  "chapitre":[
+    {
+      "titre": "Debut",
+      "position": "6000"
+    },
+    {
+      "titre": " Oiseau",
+      "position": "23000"
+    },
+    {
+      "titre": "Bunny",
+      "position": "53000"
+    },
+    {
+      "titre": "Papillon",
+      "position": "85000"
+    },
+    {
+      "titre": "Buck",
+      "position": "124000"
+    },
+    {
+      "titre": "L attaque",
+      "position": "165000"
+    },
+    {
+      "titre": "Contre",
+      "position": "338000"
+    },
+    {
+      "titre": "La chutte",
+      "position": "431000"
+    },
+    {
+      "titre": "Generique",
+      "position": "495000"
+    }
+  ]
+}
